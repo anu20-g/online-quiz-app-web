@@ -1,0 +1,1 @@
+# Online Quiz Application - Team 1\n\nShow multiple-choice questions, calculate scores and display results.\n\n## Preview\nOpen `index.html` in any modern web browser.\n
